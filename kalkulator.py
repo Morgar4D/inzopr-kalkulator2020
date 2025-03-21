@@ -5,6 +5,9 @@ def dodaj(a,b);
     wynik = a + b
     return wynik
 
+# test
+
+
 get_info()
 a = int(input())
 b = int(input())
